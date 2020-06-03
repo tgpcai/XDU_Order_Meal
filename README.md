@@ -1,6 +1,8 @@
 # XDU_Order_Meal
 西电软院大三程序设计大作业(基于java实现的订餐管理系统)
 
+如果觉得对学弟学妹有帮助的话，欢迎给一个start，并且分享给他人。链接：https://github.com/tgpcai/XDU_Order_Meal
+
 运行环境：eclipse+SQLyog+Windowbuilder可视化插件
 
 相关文件说明：
